@@ -1,0 +1,212 @@
+/*Android global*/
+.phone.android .kmw-key.kmw-key-shift,
+.phone.android .kmw-key.kmw-key-special,
+.phone.android .kmw-keyboard-pulaar_fulfulde_2023 #default-U_1F54C,
+.phone.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-U_1F54C,
+.phone.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_1F54C,
+.phone.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-U_1F54C,
+.phone.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_NUMLOCK {
+  background: #3b3939;
+  color: rgb(255, 255, 255);
+  border: 0.1px solid rgb(209, 208, 208);
+}
+
+.phone.android .kmw-key.kmw-key-default {
+  background: #000000;
+  color: rgb(255, 255, 255);
+  border: 1px solid #ffffff;
+}
+/*.phone.android .kmw-key.kmw-key-shift-on { background: #ffffff; color:rgb(0, 0, 0);border:1px solid rgb(0, 0, 0); }
+
+/*Special on */
+.phone.android .kmw-key.kmw-key-shift-on,
+.phone.android .kmw-key.kmw-key-special-on {
+  color: #fff;
+  background-color: #77f;
+  border: 1px solid #ffffff;
+}
+
+/*Android - default*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_A,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-U_0257,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_E,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_R,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_T,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_Y,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_U,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_I,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_O,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_P,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-U_01B4,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_S,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_D,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_F,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_G,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_H,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_J,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_K,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_L,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_M,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_W,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-U_014B,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_C,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-U_0253,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_B,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_N,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-U_002E,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-U_003F {
+  background: #000000;
+  color: rgb(255, 255, 255);
+  border: 0.1px solid #ffffff;
+  vertical-align: middle;
+}
+
+/*Special Keys*/
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_CAPS,*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_BKSP,
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_SHIFT,*/
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_NUMLOCK,*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_LOPT,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_SPACE,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #default-K_ENTER,
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_CAPS,*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_BKSP,
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_SHIFT,*/
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_NUMLOCK,*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_LOPT,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_SPACE,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_ENTER,
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_CAPS,*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_BKSP,
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_SHIFT,*/
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_NUMLOCK,*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_LOPT,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_SPACE,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_ENTER,
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_CAPS,*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_BKSP,
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_SHIFT,*/
+/*.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_NUMLOCK,*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_LOPT,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_SPACE,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_ENTER {
+  background: #3b3939;
+  color: rgb(255, 255, 255);
+  border: 0.1px solid rgb(209, 208, 208);
+}
+
+/*Android - shift*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_A,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-U_018A,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_E,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_R,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_T,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_Y,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_U,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_I,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_O,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_P,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-U_014A,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_S,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_D,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_F,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_G,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_H,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_J,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_K,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_L,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_M,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_W,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-U_01B3,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_C,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-U_0181,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_B,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-K_N,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-U_002E,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #shift-U_003F {
+  background: #000000;
+  color: rgb(255, 255, 255);
+  border: 1px solid #ffffff;
+}
+
+/*Android numeric*/
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_1,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_2,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_3,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_4,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_5,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_6,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_7,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_8,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_9,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_0,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_0024,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_007E,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_0040,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_0023,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_0025,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_0026,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_005F,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_EQUAL,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_007C,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_BKSLASH,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_LBRKT,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_0028,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_0029,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_RBRKT,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_002B,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_HYPHEN,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-U_002A,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #numeric-K_SLASH {
+  background: #000000;
+  color: rgb(255, 255, 255);
+  border: 1px solid #ffffff;
+}
+
+/*Android caps*/
+.android .kmw-Keyboard-pulaar_fulfulde_2023 #caps-K_A,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-U_018A,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_E,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_R,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_T,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_Y,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_U,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_I,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_O,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_P,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-U_014A,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_S,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_D,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_F,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_G,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_H,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_J,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_K,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_L,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_M,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_W,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-U_01B3,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_C,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-U_0181,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_B,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-K_N,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-U_002E,
+.android .kmw-keyboard-pulaar_fulfulde_2023 #caps-U_003F {
+  background: #000000;
+  color: rgb(255, 255, 255);
+  border: 1px solid #ffffff;
+}
+
+/*popup*/
+.phone.android .kmw-Keyboard-pulaar_fulfulde_2023 .kmw-key.kmw-key-popup {
+  background: #000000;
+  color: rgb(255, 255, 255);
+  border: 1px solid #ffffff;
+}
+
+/*iOS*/
+.ios .kmw-keyboard-pulaar_fulfulde_2023 #default-K_A,
+.ios .kmw-keyboard-pulaar_fulfulde_2023 #default-U_0257,
+.ios .kmw-keyboard-pulaar_fulfulde_2023 #default-K_E {
+  background: #181d18;
+}

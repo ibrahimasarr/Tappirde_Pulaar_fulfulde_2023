@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\pulaar_fulfulde_2023.kpj</path>
+    <file ID="id_22e0426af4a90699d7ee43334d68922f" Expanded="1"/>
+    <file ID="id_418a5fb0ad523a3cbaec66e1fb0b86bf" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_53053e810babc25c095411f68e30a519</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\pulaar_fulfulde_2023.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>1</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Sawarabi Gothic|12|   |0</DebugFont>
+        <CodeFont>Sawarabi Gothic|12|   |0</CodeFont>
+        <CharFont>Sawarabi Gothic|12|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_1c61c7f2ca2cde7eddd68f2fc7fb2e9e</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\pulaar_fulfulde_2023.keyboard_info</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_1961a69f4200f4f221d208e6cdb37099</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\build\pulaar_fulfulde_2023.kmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_418a5fb0ad523a3cbaec66e1fb0b86bf</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\pulaar_fulfulde_2023.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_2a3dbe669b945d17cca1dcba956b9b2e</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Shared\Fonts\SawarabiGothic-Regular.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c7b196beb36d9009dee16d8b530fc7b7</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\..\build\pulaar_fulfulde_2023.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_aae4a8c283b0611a9c5064736c89566c</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\..\..\..\Shared\Fonts\SawarabiGothic-Regular.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f82aba4202de28b7717f6c4f8d60d31c</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\isarr.ff-latn.ful2023.model.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_3cfbbe43bfba54a8c98953a37f56b3b4</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\..\build\isarr.ff-latn.ful2023.model.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_24f71cda8aef4ff8a2785cfc00b56003</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c4c08caf2856a7a14e9b140c7413bd9e</ID>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>pulaar_fulfulde_2023.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\pulaar_fulfulde_2023.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>isarr.ff-latn.ful2023.model.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\isarr.ff-latn.ful2023.model.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>pulaar_fulfulde_2023.js</Filename>
+      <FileType>.js</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\build\pulaar_fulfulde_2023.js</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>pulaar_fulfulde_2023.keyboard_info</Filename>
+      <FileType>.keyboard_info</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\pulaar_fulfulde_2023.keyboard_info</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>pulaar_fulfulde_2023.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\pulaar_fulfulde_doulos_sil\source\pulaar_fulfulde_2023.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.ts</Filename>
+      <FileType>.ts</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.ts</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.js</Filename>
+      <FileType>.js</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.js</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
