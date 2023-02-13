@@ -1,4 +1,5 @@
-﻿store(&TARGETS) 'windows macosx linux iphone ipad androidphone androidtablet'
+﻿store(&version) '15.0'
+store(&TARGETS) 'windows macosx linux iphone ipad androidphone androidtablet'
 store(&LAYOUTFILE) 'pulaar_fulfulde_2023.keyman-touch-layout'
 store(&NAME) 'Tappirde Pulaar Fulfulde 2023'
 c store(&NAME) 'Casing Support'

@@ -84,15 +84,15 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
-      <Filename>casing.kvk</Filename>
-      <FileType>.kvk</FileType>
-      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\build\casing.kvk</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU1</ID>
       <Filename>pulaar_fulfulde_2023.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\pulaar_fulfulde_2023.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>casing.kvk</Filename>
+      <FileType>.kvk</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\build\casing.kvk</FullPath>
     </File>
     <File>
       <ID>id_MRU2</ID>
