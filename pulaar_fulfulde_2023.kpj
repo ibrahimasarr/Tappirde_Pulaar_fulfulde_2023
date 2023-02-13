@@ -53,6 +53,18 @@
       <FileType>.ttf</FileType>
     </File>
     <File>
+      <ID>id_f82aba4202de28b7717f6c4f8d60d31c</ID>
+      <Filename>isarr.ff-latn.ful2023.model.kps</Filename>
+      <Filepath>..\isarr.ff-latn.ful2023\source\isarr.ff-latn.ful2023.model.kps</Filepath>
+      <FileVersion>1.0.2</FileVersion>
+      <FileType>.kps</FileType>
+      <Details>
+        <Name>ful2023</Name>
+        <Copyright>© 2023 Ibrahima Mamal Sarr</Copyright>
+        <Version>1.0.2</Version>
+      </Details>
+    </File>
+    <File>
       <ID>id_c7b196beb36d9009dee16d8b530fc7b7</ID>
       <Filename>pulaar_fulfulde_2023.js</Filename>
       <Filepath>source\..\build\pulaar_fulfulde_2023.js</Filepath>
@@ -83,18 +95,6 @@
       <FileVersion></FileVersion>
       <FileType>.ttf</FileType>
       <ParentFileID>id_418a5fb0ad523a3cbaec66e1fb0b86bf</ParentFileID>
-    </File>
-    <File>
-      <ID>id_f82aba4202de28b7717f6c4f8d60d31c</ID>
-      <Filename>isarr.ff-latn.ful2023.model.kps</Filename>
-      <Filepath>..\isarr.ff-latn.ful2023\source\isarr.ff-latn.ful2023.model.kps</Filepath>
-      <FileVersion>1.0.2</FileVersion>
-      <FileType>.kps</FileType>
-      <Details>
-        <Name>ful2023</Name>
-        <Copyright>© 2023 Ibrahima Mamal Sarr</Copyright>
-        <Version>1.0.2</Version>
-      </Details>
     </File>
     <File>
       <ID>id_3cfbbe43bfba54a8c98953a37f56b3b4</ID>

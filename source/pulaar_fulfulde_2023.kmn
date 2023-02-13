@@ -1,13 +1,73 @@
 ﻿store(&TARGETS) 'windows macosx linux iphone ipad androidphone androidtablet'
 store(&LAYOUTFILE) 'pulaar_fulfulde_2023.keyman-touch-layout'
 store(&NAME) 'Tappirde Pulaar Fulfulde 2023'
+c store(&NAME) 'Casing Support'
+store(&VISUALKEYBOARD) 'casing.kvks'
 store(&COPYRIGHT) '© 2023 Ibrahima Malal Sarr - pulaar-fulfulde.org'
 store(&KEYBOARDVERSION) '1.0'
 store(&KMW_EMBEDCSS) 'pulaar_fulfulde_2023.css'
 store(&MESSAGE) 'This is a working beta vesion. Let us know any suggestions, bugs, contributions'
-begin Unicode > use(main)
+c Note three entry points, rather than the traditional single entry point
 
+begin Unicode > use(main)
+begin NewContext > use(NewContext)
+begin PostKeystroke > use(PostKeystroke)
+
+c This tells Keyman which keys should have casing behavior applied
+store(&CasedKeys) [K_A] .. [K_Z]
+
+c We'll define some useful stores here
+store(key) [K_M] [K_N] [K_B] [K_V] [K_C] [K_X] [K_Z] [K_oE2] [K_A] [K_S] [K_D] [K_F] [K_G] [K_H] [K_J] [K_K] [K_L] [K_COLON] [K_QUOTE] [K_RBRKT] [K_LBRKT] [K_P] [K_O] [K_I] [K_U] [K_Y] [K_T] [K_R] [K_E] [K_W] [K_Q] [SHIFT K_M] [SHIFT K_N] [SHIFT K_B] [SHIFT K_V] [SHIFT K_C] [SHIFT K_X] [SHIFT K_Z] [SHIFT K_oE2] [SHIFT K_A] [SHIFT K_S] [SHIFT K_D] [SHIFT K_F] [SHIFT K_G] [SHIFT K_H] [SHIFT K_J] [SHIFT K_K] [SHIFT K_L] [SHIFT K_COLON] [SHIFT K_QUOTE] [SHIFT K_RBRKT] [SHIFT K_LBRKT] [SHIFT K_P] [SHIFT K_O] [SHIFT K_I] [SHIFT K_U] [SHIFT K_Y] [SHIFT K_T] [SHIFT K_R] [SHIFT K_E] [SHIFT K_W] [SHIFT K_Q]
+
+store(out)  'n' 'b' 'ɓ' 'c' 'ƴ' 'w' 'ŋ' 's' 'd' 'f' 'g' 'h' 'j' 'k' 'l' 'm' 'ù' 'ó' 'ñ' 'p' 'o' 'i' 'u' 'y' 't' 'r' 'e' 'ɗ' 'a'      'N' 'B' 'Ɓ' 'C' 'Ƴ' 'W' 'Ŋ' 'S' 'D' 'F' 'G' 'H' 'J' 'K' 'L' 'M' 'Ù' 'Ó' 'Ñ' 'P' 'O' 'I' 'U' 'Y' 'T' 'R' 'E' 'Ɗ' 'A'
+
+store(caps) 'A'..'Z'
+store(digit) '0'..'9'
+
+group(NewContext) readonly
+    c Any time we get a new context, by mouse click, tap,
+    c cursor movement, new document, etc, we'll try and
+    c determine the best layer to use
+    nomatch > use(detectStartOfSentence)
+
+group(PostKeystroke) readonly
+    c We get here after every keystroke and model action is processed
+
+    c Okay, let's stay on the numeric layer if we are there already
+    if(&newLayer = "") if(&layer = 'numeric') any(digit) > context
+
+    c Don't swap off the caps lock layer automatically
+    if(&layer = 'caps') > context
+
+    c no other changes, so detect sentence or layer change, as long
+    c as the user hasn't attempted to change layer themselves.
+    if(&newLayer = "") > use(detectStartOfSentence)
+
+group(detectStartOfSentence) readonly
+    c We have a shared group for the start of sentence detection now
+    c which will set the current layer according to the current context.
+
+    c Some common end-of-sentence punctuation
+    store(sentencePunctuation) '.?!'
+
+    c If we are at the start of a text field, we're at the 'start of a
+    c sentence', so we'll move to the Shift layer
+    nul > layer('shift')
+
+    c Otherwise, we'll move to the Shift layer only if we see end of a
+    c sentence followed by one or two spaces.
+    any(sentencePunctuation) ' ' > layer('shift')
+    any(sentencePunctuation) '  ' > layer('shift')
+
+    c And because we haven't see any of these situations above, we'll
+    c move to the default layer. Note that this effectively drops us
+    c back to the default layer after every keystroke that isn't blocked
+    c by the `PostKeystroke` or early `detectStartOfSentence` rules.
+    nomatch > layer('default')
+    
 group(main) using keys
+c    + any(key) > index(out, 1)
+
 + [SHIFT ALT K_X] > 'X'
 + [ALT K_X] > 'x'
 + [SHIFT ALT K_RBRKT] > '£'
