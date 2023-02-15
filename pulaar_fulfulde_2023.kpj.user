@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <KeymanDeveloperProjectUser>
   <ViewState>
-    <tab>1</tab>
+    <tab>3</tab>
     <showhelp>1</showhelp>
     <path>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\pulaar_fulfulde_2023.kpj</path>
     <file ID="id_53053e810babc25c095411f68e30a519" Expanded="1"/>
@@ -84,57 +84,57 @@
   <MRU>
     <File>
       <ID>id_MRU0</ID>
-      <Filename>pulaar_fulfulde_2023.kmn</Filename>
-      <FileType>.kmn</FileType>
-      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\pulaar_fulfulde_2023.kmn</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU1</ID>
-      <Filename>casing.kvk</Filename>
-      <FileType>.kvk</FileType>
-      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\build\casing.kvk</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU2</ID>
       <Filename>isarr.ff-latn.ful2023.model.kps</Filename>
       <FileType>.kps</FileType>
       <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\isarr.ff-latn.ful2023\source\isarr.ff-latn.ful2023.model.kps</FullPath>
     </File>
     <File>
+      <ID>id_MRU1</ID>
+      <Filename>pulaar_fulfulde_2023.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\pulaar_fulfulde_2023.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>pulaar_fulfulde_2023.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\source\pulaar_fulfulde_2023.kmn</FullPath>
+    </File>
+    <File>
       <ID>id_MRU3</ID>
+      <Filename>casing.kvk</Filename>
+      <FileType>.kvk</FileType>
+      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\build\casing.kvk</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
       <Filename>pulaar_fulfulde_2023.js</Filename>
       <FileType>.js</FileType>
       <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\build\pulaar_fulfulde_2023.js</FullPath>
     </File>
     <File>
-      <ID>id_MRU4</ID>
+      <ID>id_MRU5</ID>
       <Filename>pulaar_fulfulde_2023.keyboard_info</Filename>
       <FileType>.keyboard_info</FileType>
       <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Tappirde_Pulaar_fulfulde_2023\pulaar_fulfulde_2023.keyboard_info</FullPath>
     </File>
     <File>
-      <ID>id_MRU5</ID>
+      <ID>id_MRU6</ID>
       <Filename>pulaar_fulfulde_2023.kmn</Filename>
       <FileType>.kmn</FileType>
       <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\pulaar_fulfulde_doulos_sil\source\pulaar_fulfulde_2023.kmn</FullPath>
     </File>
     <File>
-      <ID>id_MRU6</ID>
+      <ID>id_MRU7</ID>
       <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kps</Filename>
       <FileType>.kps</FileType>
       <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.kps</FullPath>
     </File>
     <File>
-      <ID>id_MRU7</ID>
+      <ID>id_MRU8</ID>
       <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.ts</Filename>
       <FileType>.ts</FileType>
       <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.ts</FullPath>
-    </File>
-    <File>
-      <ID>id_MRU8</ID>
-      <Filename>ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.js</Filename>
-      <FileType>.js</FileType>
-      <FullPath>C:\Users\Ibrahima SARR\Documents\Keyman Developer\Projects\Pulaar-Fulfulde Lexical Model\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020\ibrahima_malal_sarr.fuc-latn-sn.fuc_2020.model.js</FullPath>
     </File>
   </MRU>
 </KeymanDeveloperProjectUser>
