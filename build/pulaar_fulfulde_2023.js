@@ -140,7 +140,7 @@ function Keyboard_pulaar_fulfulde_2023()
               {
                 "nextlayer": "default",
                 "layer": "shift",
-                "id": "K_Y",
+                "id": "U_0059",
                 "text": "Y"
               },
               {
